@@ -1,4 +1,5 @@
 # Teachable Machine Image Demo
+  Is it me or my kids?
 
 This project demonstrates a machine learning model made using [Teachable Machine](https://teachablemachine.withgoogle.com/),
 a tool that let's anyone make machine learning models without writing any code. 
